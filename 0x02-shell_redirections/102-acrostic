@@ -1,0 +1,2 @@
+#!/bim/bash
+eco "$(cut -c 1 | tr -d '\n')"
